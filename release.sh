@@ -58,7 +58,7 @@ TMP=$(mktemp)
 mv "$TMP" CHANGELOG.md
 
 # 5. Commit, tag, push.
-git add altstore-source.json CHANGELOG.md Caffeinate/Caffeinate.xcodeproj/project.pbxproj
+git add -A
 git commit -m "Release v$VERSION"
 git tag "v$VERSION"
 git push origin main --tags
