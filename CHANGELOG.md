@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1 — 2026-09-01
+
+App icon and source icon now match the in-app button — grey coffee cup on a light grey circle.
+
+
 ## 1.0.0 — 2026-09-01
 
 First release.
