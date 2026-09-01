@@ -11,7 +11,7 @@
       "subtitle": "Keep your device awake, like caffeinate on Mac.",
       "localizedDescription": "A tiny app whose only job is to keep your iPhone or iPad awake, similar to the caffeinate command on macOS.\n\n\u2022 One button \u2014 tap to keep the screen on, tap again to allow sleep\n\u2022 Optional \"dim screen while awake\" toggle to save battery\n\u2022 Shortcuts actions so you can automate it \u2014 e.g. keep the device awake automatically whenever a chosen app is open, and let it sleep again when you close that app\n\nUniversal app for iPhone and iPad. Requires iOS 17 or later.",
       "iconURL": "https://raw.githubusercontent.com/mwelford2/caffeinate-ios/main/assets/icon.png",
-      "tintColor": "FF821E",
+      "tintColor": "8A8A8E",
       "category": "utilities",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/mwelford2/caffeinate-ios/main/assets/screenshot-1.png"
