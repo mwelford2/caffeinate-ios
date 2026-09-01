@@ -1,0 +1,36 @@
+{
+  "name": "Caffeinate",
+  "identifier": "com.matteowelford.caffeinate.source",
+  "sourceURL": "https://raw.githubusercontent.com/mwelford2/caffeinate-ios/main/altstore-source.json",
+  "website": "https://github.com/mwelford2/caffeinate-ios",
+  "apps": [
+    {
+      "name": "Caffeinate",
+      "bundleIdentifier": "com.matteowelford.caffeinate",
+      "developerName": "Matteo Welford",
+      "subtitle": "Keep your device awake, like caffeinate on Mac.",
+      "localizedDescription": "A tiny app whose only job is to keep your iPhone or iPad awake, similar to the caffeinate command on macOS.\n\n• One button — tap to keep the screen on, tap again to allow sleep\n• Optional \"dim screen while awake\" toggle to save battery\n• Shortcuts actions so you can automate it — e.g. keep the device awake automatically whenever a chosen app is open, and let it sleep again when you close that app\n\nUniversal app for iPhone and iPad. Requires iOS 17 or later.",
+      "iconURL": "https://raw.githubusercontent.com/mwelford2/caffeinate-ios/main/assets/icon.png",
+      "tintColor": "FF821E",
+      "category": "utilities",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/mwelford2/caffeinate-ios/main/assets/screenshot-1.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2026-09-01",
+          "localizedDescription": "First release.",
+          "downloadURL": "https://github.com/mwelford2/caffeinate-ios/releases/download/v1.0.0/Caffeinate.ipa",
+          "size": 791403,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
